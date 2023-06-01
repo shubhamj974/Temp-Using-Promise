@@ -1,0 +1,7 @@
+.G-001{
+    height : 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: linear-gradient(to right top, #9f2f5c, #be4a3f, #c1751b, #a6a30e, #67cd52);
+}
